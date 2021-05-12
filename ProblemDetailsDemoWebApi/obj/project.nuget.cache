@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJTKgU4smdBEc+60jIp6NqjJitZ6OabKTsFtLamz9Hh2MrMGq3clLR03ORhCb7ZxNcJQSpmQdoHOn06QffKAng==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\ProblemDetailsDemoWebApi\\ProblemDetailsDemoWebApi\\ProblemDetailsDemoWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\me_th\\.nuget\\packages\\hellang.middleware.problemdetails\\5.4.0\\hellang.middleware.problemdetails.5.4.0.nupkg.sha512",
+    "C:\\Users\\me_th\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\me_th\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
